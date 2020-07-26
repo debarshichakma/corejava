@@ -6,6 +6,7 @@ public class HashMapWhileForLoop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// This is HashMap programining 
 		HashMap<Integer,String> map = new HashMap<Integer,String>();
 		map.put(2,"deb");
 		map.put(3, "Aditi");
